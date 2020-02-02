@@ -17,6 +17,11 @@ $ cd meli-api-data-retriever
 $ pip3 install -r requirements.txt
 ```
 
+If using Windows make sure to run that last line this way:
+```bash
+$ python -m pip install -r requirements.txt
+```
+
 ### Parameters
 ```
 -r --region [country] (required)
