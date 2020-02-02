@@ -30,7 +30,7 @@ $ python3 main.py -r <region> -q <search query> [-o outputFile.txt]
 ```
 ### Example
 ```bash
-$ Example: python3 main.py -r MLA -q samsung_tv -o argentine-samsung-tv.txt
+$ python3 main.py -r MLA -q samsung_tv -o argentine-samsung-tv.txt
 ```
 
 ## Screenshots
@@ -43,4 +43,4 @@ $ Example: python3 main.py -r MLA -q samsung_tv -o argentine-samsung-tv.txt
 </p>
 
 ## Author
-[(Julian Zaltron)](https://julianzaltron.now.sh)
+[Julian Zaltron](https://julianzaltron.now.sh)
