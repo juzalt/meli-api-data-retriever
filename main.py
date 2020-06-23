@@ -23,7 +23,7 @@ def banner():
         |_|     |_|e |______|i Api Data Retriever 
 	
     Version {v}
-    Made by Julian Zaltron (juzalt)
+    Made by Noah Pomilio
 
     Usage: python3 main.py -r <region> -q <search query> [-o outputFile.txt]
     Example: python3 main.py -r MLA -q samsung_tv -o argentine-samsung-tv.txt
